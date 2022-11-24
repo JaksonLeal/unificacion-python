@@ -19,11 +19,12 @@ Para ejecutar la solución debes de tener:
 2. En CMD ejecutamos los siguientes comandos:
 	+ `pip install openpyxl`
 	+ `pip install aspose-cells`
- + `pip install pandas`
+ 	+ `pip install pandas`
+ 
  ~~PUEDEN SER NECESARIAS OTRAS LIBRERIAS QUE USA EL PROYECTO, DE SER NECESARIO, POR FAVOR BUSCAR EN INTERNET COMO INSTALARLA.~~
 
 3. Ubicar archivos .xls o .xlsx
- + Deben estar en las carpetas designadas para ello `\unificacion-python\descarga` para mas informacion ver archivo _extend_readme_.
+ 	+ Deben estar en las carpetas designadas para ello `\unificacion-python\descarga` para mas informacion ver archivo _extend_readme_.
  
 4. Abrir archivo “Main.py” y ejecutarlo.
 
